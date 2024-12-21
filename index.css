@@ -1,0 +1,46 @@
+body {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', Arial, sans-serif;
+    background-image: url("images/table.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    font-weight: bold;
+    color:lightblue;
+    text-align: center;
+}
+#player-el{
+    font-size: large;
+    color: aliceblue;
+
+
+}
+
+h1 {
+    color: gold;
+    font-size: 3rem;
+    text-shadow: 2px 2px 4px black;
+}
+
+#message-el {
+    font-style: italic;
+    font-size: 1.2rem;
+    text-shadow: 1px 1px 2px black;
+}
+
+button {
+    color: black;
+    width: 150px;
+    background: linear-gradient(45deg, goldenrod, darkorange);
+    padding: 10px 20px;
+    font-weight: bold;
+    border: none;
+    border-radius: 5px;
+    margin: 5px;
+    cursor: pointer;
+    box-shadow: 2px 2px 5px black;
+    transition: transform 0.2s, box-shadow 0.2s;
+}
+
+button:hover {
+    transform: scale(1.1);
+    box-shadow: 3px 3px 8px black;
+}
