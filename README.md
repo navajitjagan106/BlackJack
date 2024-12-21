@@ -2,6 +2,8 @@
 
 Welcome to the **Blackjack Game** repository! This project is a fun and engaging implementation of the classic card game, Blackjack, developed with a sleek and modern design tailored for a poker-themed aesthetic.
 
+Link:  https://blackjacknavajit.netlify.app/
+
 ## Features
 
 - **User-Friendly Interface**: Designed with a black-and-gold poker theme for an immersive gaming experience.
